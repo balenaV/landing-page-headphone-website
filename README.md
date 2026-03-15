@@ -1,4 +1,4 @@
-# [Landing Page Responsiva - Headphones 🎧](https://balenav.github.io/LandingPage-Headphone-Website/)
+# [Landing Page Responsiva - Headphones 🎧](https://balenav.github.io/landing-page-headphone-website/)
 
 ![Preview do Projeto](assets/images/preview.png)
 
@@ -17,4 +17,4 @@
 
 ## Deploy
 O projeto está disponível no GitHub Pages:
-[https://balenav.github.io/LandingPage-Headphone-Website/](https://balenav.github.io/LandingPage-Headphone-Website/)
+[https://balenav.github.io/LandingPage-Headphone-Website/](https://balenav.github.io/landing-page-headphone-website/)
